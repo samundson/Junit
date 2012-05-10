@@ -1,4 +1,4 @@
-Junit
-=====
+Junit Project
+=============
 
 Public domain source code
